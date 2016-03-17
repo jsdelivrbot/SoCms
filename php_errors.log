@@ -1,0 +1,8 @@
+[10-Mar-2015 21:06:26 UTC] PHP Notice:  Undefined index: summary in /home/ubuntu/workspace/admin/post.php on line 26
+[10-Mar-2015 21:07:29 UTC] PHP Notice:  Undefined index: summary in /home/ubuntu/workspace/admin/post.php on line 26
+[10-Mar-2015 22:12:24 UTC] PHP Warning:  Missing argument 3 for change_password(), called in /home/ubuntu/workspace/admin/changepw.php on line 43 and defined in /home/ubuntu/workspace/resources/lib/user_functions.php on line 28
+[10-Mar-2015 22:12:24 UTC] PHP Notice:  Undefined variable: password in /home/ubuntu/workspace/resources/lib/user_functions.php on line 30
+[10-Mar-2015 22:12:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/resources/lib/user_functions.php on line 33
+[10-Mar-2015 22:13:57 UTC] PHP Notice:  Undefined variable: errors in /home/ubuntu/workspace/admin/changepw.php on line 45
+[10-Mar-2015 22:13:57 UTC] PHP Warning:  implode() [<a href='/phpmanual/function.implode.html'>function.implode.html</a>]: Invalid arguments passed in /home/ubuntu/workspace/resources/lib/general_functions.php on line 10
+[11-Mar-2015 00:23:52 UTC] PHP Fatal error:  Call to undefined function edit_settings() in /home/ubuntu/workspace/admin/settings.php on line 9
