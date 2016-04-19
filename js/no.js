@@ -1,1 +1,1 @@
-console.log("This that new shit");
+console.log("This that new shit", $('.main'));
