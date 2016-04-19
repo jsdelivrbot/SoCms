@@ -1,1 +1,1 @@
-alert("Ayy lmao);
+alert("Ayy lmao");
