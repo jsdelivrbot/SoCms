@@ -11,3 +11,5 @@ $('.day-wrap').xpull({
     'callback':function(){ alert(111); },
     'spinnerTimeout':2000
  });
+
+console.log("Pull is set");
