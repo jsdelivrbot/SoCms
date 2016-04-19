@@ -4,7 +4,7 @@ $.getScript("https://cdn.rawgit.com/sjovanovic/xpull/master/xpull.js", function(
 
 });
 
-console.log("This that new shit", $('.main'));
+console.log("This that new shit", $('.main').attr('class'));
 
 $('.main').xpull({
     'pullThreshold':50,
