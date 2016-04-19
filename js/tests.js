@@ -1,1 +1,1 @@
-alert("Ayy lmao");
+console.log("This that new shit");
