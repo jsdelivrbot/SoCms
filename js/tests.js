@@ -1,1 +1,1 @@
-console.log("This that new shit");
+$('iframe').css('padding', '0px');
