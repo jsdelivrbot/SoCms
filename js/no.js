@@ -1,4 +1,4 @@
-$.getScript("https://cdn.rawgit.com/sjovanovic/xpull/master/xpull.js", function(){
+$.getScript("https://cdn.jsdelivr.net/gh/sjovanovic/xpull/xpull.js", function(){
 
    alert("Script loaded but not necessarily executed.");
 
